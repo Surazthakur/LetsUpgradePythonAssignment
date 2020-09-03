@@ -20,8 +20,3 @@ elif height < 1000 :
     print('Land the plane')
 
 
-# In[ ]:
-
-
-
-
