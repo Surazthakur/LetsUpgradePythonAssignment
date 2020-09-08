@@ -3,9 +3,6 @@
 
 # # Assignment 4 : Print armstrong number between the range of given numbers.
 
-# In[6]:
-
-
 lower = 1042000
 upper = 702648265
 for i in range(lower, upper):
@@ -20,10 +17,3 @@ for i in range(lower, upper):
     if num ==  sum :
         print("The first armstrong number between the given range is :" , num)
         break 
-
-
-# In[ ]:
-
-
-
-
